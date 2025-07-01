@@ -17,7 +17,15 @@ This is a project using the Spotify API to access Spotify's music information, l
 
 - Project started July 1, 2025 | **WORK IN PROGRESS**
 
+## Changelog
+
+- 7/1/2025 6:23pm :
+  - pip install spotipy
+  - set up developer account with Spotify
+
 ## Sources 
 
 - [Spotipy](https://spotipy.readthedocs.io/en/2.25.1/)
   - Spotipy, a Spotify API to get music data.
+- [Spotify for Developers](https://developer.spotify.com/)
+  - Required to access Spotify data.
