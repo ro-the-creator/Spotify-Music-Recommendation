@@ -1,1 +1,1 @@
-# Spotify-Music-Recommendartion
+# Spotify-Music-Recommendation
